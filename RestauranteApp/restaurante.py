@@ -1,0 +1,7 @@
+
+
+class Restaurante:
+    pass
+    restaurante =[]
+    
+
